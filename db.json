@@ -72,7 +72,7 @@
   },
   {
     "available": false,
-    "nombre": "Mermelada de Fresa",
+    "name": "Mermelada de Fresa",
     "picture": "https://firebasestorage.googleapis.com/v0/b/angulardemo-a7369.appspot.com/o/img_productos_flutter%2Fprod-11.JPG?alt=media&token=7d69302b-36b3-4de3-8cb0-e0a186124e47",
     "price": 12.35
   },
