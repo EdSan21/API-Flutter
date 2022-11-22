@@ -7,5 +7,68 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "productos": 
+[
+  {
+    "available": false,
+    "name": "Naranja Importada",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/angulardemo-a7369.appspot.com/o/img_productos_flutter%2Fprod-1.JPG?alt=media&token=dd6dab50-113f-4609-98cb-f7c95a9d0244",
+    "price": 15.68
+  },
+  {
+    "available": false,
+    "name": "Toallitas Desmaquillantes",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/angulardemo-a7369.appspot.com/o/img_productos_flutter%2Fprod-2.JPG?alt=media&token=d05abaec-98f7-45af-ba0d-77d27a4a1657",
+    "price": 24.23
+  },
+  {
+    "available": false,
+    "name": "Cloro Suli",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/angulardemo-a7369.appspot.com/o/img_productos_flutter%2Fprod-3.JPG?alt=media&token=67283ff3-1bd4-46f2-ac4a-9b058481ea02",
+    "price": 45.89
+  },
+  {
+    "available": false,
+    "name": "Jugo de Manzana",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/angulardemo-a7369.appspot.com/o/img_productos_flutter%2Fprod-4.JPG?alt=media&token=ef9c05fa-be03-448a-ad63-7ffcef013747",
+    "price": 18.96
+  },
+  {
+    "available": false,
+    "name": "Cereza Diana",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/angulardemo-a7369.appspot.com/o/img_productos_flutter%2Fprod-5.JPG?alt=media&token=5030d7f0-6932-4bf6-a110-5b2210755f2e",
+    "price": 3.51
+  },
+  {
+    "available": true,
+    "name": "Leche de Soya Pac",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/angulardemo-a7369.appspot.com/o/img_productos_flutter%2Fprod-6.JPG?alt=media&token=ae795e2c-5349-4174-8c3a-2cbaec1758dc",
+    "price": 45.63
+  },
+  {
+    "available": true,
+    "name": "Jamón Fud",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/angulardemo-a7369.appspot.com/o/img_productos_flutter%2Fprod-7.JPG?alt=media&token=af1753b8-b18c-42ec-8eb8-a0bd6c3ccc3a",
+    "price": 4.56
+  },
+  {
+    "available": true,
+    "name": "Queso Duro ilgua",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/angulardemo-a7369.appspot.com/o/img_productos_flutter%2Fprod-8.JPG?alt=media&token=99be3b8e-61c4-4b0e-bdc7-bdff52dd43ea",
+    "price": 4.96
+  },
+  {
+    "available": true,
+    "name": "Medallones Pollo Rey",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/angulardemo-a7369.appspot.com/o/img_productos_flutter%2Fprod-9.JPG?alt=media&token=09659e74-501c-40aa-a160-e05fdffe2a90",
+    "price": 21.63
+  },
+  {
+    "available": true,
+    "name": "Set de Cepillos Colgate",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/angulardemo-a7369.appspot.com/o/img_productos_flutter%2Fprod-10.JPG?alt=media&token=36a0472b-bb09-4095-ab86-fea75505ef48",
+    "price": 19.87
   }
+]
 }
